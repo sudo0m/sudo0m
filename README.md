@@ -11,9 +11,6 @@
 
 [![](https://count.getloli.com/get/@sudo0m.github.readme)](https://count.getloli.com/)
 
-⬇️**点击下方图片留言**⬇️
-
-[![](https://chat.getloli.com/room/@Quan666.github/svg?width=600&height=100&limit=20&theme=light&title=Quan666@github:%20~&fontSize=13)](https://chat.getloli.com/room/@Quan666.github?title=sudo0m的留言板)
 
 ⬇️**点击下方图片留言**⬇️
 
