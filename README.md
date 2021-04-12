@@ -8,11 +8,10 @@
 -   :package: blog：[sudo0m](https://sudo0m.github.io)
 -   :seedling: nothing here
 
-⬇️**访问数量**⬇️
-[![](https://count.getloli.com/get/@sudo0m.github.readme)](https://count.getloli.com/)
+-    ⬇️**访问数量**⬇️
+-    [![](https://count.getloli.com/get/@sudo0m.github.readme)](https://count.getloli.com/)
 
 
-⬇️**点击下方图片留言**⬇️
 
 
 ---
